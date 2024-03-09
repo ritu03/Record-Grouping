@@ -41,6 +41,9 @@ The AccordionBtn component is located within the AccordionBtn folder.
 It serves as a child component of the Record component.
 This component utilizes React Bootstrap's Accordion and Navbar components to display records grouped by suburbs and Offence Level 2 Description.
 
+Utils:
+This contains constants file, that includes text constants.
+
 Usage
 To run the project locally:
 
